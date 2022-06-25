@@ -1,5 +1,5 @@
 {
-  "name": "povils/figlet",
+  "name": "topazdom/figleti",
   "type": "library",
   "description": "Figlet text generator - PHP",
   "keywords": ["github", "figlet", "ascii", "text", "php"],
@@ -8,6 +8,10 @@
     {
       "name": "Povilas Susinskas",
       "email": "povilassusinskas@gmail.com"
+    },
+    {
+      "name": "Topazdom Technologies Ltd.",
+      "email": "contact@topazdom.com"
     }
   ],
   "require": {
@@ -19,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Povils\\Figlet\\": "src/Figlet"
+      "Topazdom\\Figlet\\": "src/Figlet"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Povils\\Figlet\\Tests\\": "tests/"
+      "Topazdom\\Figlet\\Tests\\": "tests/"
     }
   },
   "extra": {
