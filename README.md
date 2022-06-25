@@ -18,10 +18,10 @@
 
 ## Installation
 
- Available as [Composer] package [povils/figlet].
+ Available as [Composer] package [topazdom/figleti].
 
 ```
-composer require povils/figlet "dev-master"
+composer require topazdom/figleti "dev-master"
 ```
 
 
