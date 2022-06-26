@@ -1,12 +1,8 @@
 <?php
 
-/**
- * This is the part of Povils open-source library.
- *
- * @author Povilas Susinskas
- */
 
-namespace Povils\Figlet;
+
+namespace Topazdom\Figlet;
 
 /**
  * Class Figlet

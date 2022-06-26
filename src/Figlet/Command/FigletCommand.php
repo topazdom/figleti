@@ -1,14 +1,10 @@
 <?php
 
-/**
- * This is the part of Povils open-source library.
- *
- * @author Povilas Susinskas
- */
 
-namespace Povils\Figlet\Command;
 
-use Povils\Figlet\Figlet;
+namespace Topazdom\Figlet\Command;
+
+use Topazdom\Figlet\Figlet;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;

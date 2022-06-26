@@ -1,14 +1,8 @@
 <?php
 
-/**
- * This is the part of Povils open-source library.
- *
- * @author Povilas Susinskas
- */
+namespace Topazdom\Figlet\Tests;
 
-namespace Povils\Figlet\Tests;
-
-use Povils\Figlet\Figlet;
+use Topazdom\Figlet\Figlet;
 use PHPUnit\Framework\TestCase as TestCase;
 
 /**

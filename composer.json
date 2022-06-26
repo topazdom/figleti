@@ -6,12 +6,12 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Povilas Susinskas",
-      "email": "povilassusinskas@gmail.com"
-    },
-    {
       "name": "Topazdom Technologies Ltd.",
       "email": "contact@topazdom.com"
+    },
+    {
+      "name": "Povilas Susinskas",
+      "email": "povilassusinskas@gmail.com"
     }
   ],
   "require": {
